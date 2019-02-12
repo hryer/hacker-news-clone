@@ -1,7 +1,15 @@
 import React, {Component} from 'react';
 
 class Link extends Component {
+    
     render() {
+        // const{
+        //     author: { 
+        //       name, 
+        //       location: { city },
+        //     },
+        // } = this.props;
+        
         return (
             <div>
                 <div>
